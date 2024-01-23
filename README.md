@@ -18,4 +18,6 @@ The dashboard should encompass visualizations and interactive elements to empowe
 
 ### The successful completion of this project will empower Café Espresso Oasis with a powerful tool for data-driven decision-making, enabling them to optimize sales strategies, identify growth opportunities, and enhance overall business performance in the highly competitive coffee market.
 
+
 ![Alt text](coffee_sales01.png)
+![Alt text](coffee_sales02.png)
