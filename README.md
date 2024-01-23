@@ -17,3 +17,5 @@ The dashboard should encompass visualizations and interactive elements to empowe
 6.Coffee Type Impact: Analyze how the type of coffee affect sales, providing insights into product preferences and informing inventory management strategies.
 
 ### The successful completion of this project will empower Café Espresso Oasis with a powerful tool for data-driven decision-making, enabling them to optimize sales strategies, identify growth opportunities, and enhance overall business performance in the highly competitive coffee market.
+
+![Alt text](coffee_sales01.png)
